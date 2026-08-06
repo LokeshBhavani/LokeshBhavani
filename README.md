@@ -1,10 +1,4 @@
 <div align="center">
-<img src="./boot-and-terminal.svg" alt="Raspberry Pi boot and terminal session" width="100%">
-</div>
-
-<br><br>
-
-<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&color=00FFFF&size=35&center=true&vCenter=true&width=800&height=80&lines=Bhavani+Lokesh;Embedded+Systems+%7C+IoT;Building+Toward+Robotics" alt="Typing Header">
 </div>  
 
@@ -33,6 +27,12 @@
 > <sub>🐍&nbsp; Currently deep in a self-paced **robotics roadmap**: Linux/RPi5, Python, ROS2, Gazebo, OpenCV.</sub>
 >
 > <sub>🧠&nbsp; Comfortable across I2C, SPI, UART, I2S, and PWM — the actual protocols that make hardware talk.</sub>
+
+<br><br>
+
+<div align="center">
+<img src="./boot-and-terminal.svg" alt="Raspberry Pi boot and terminal session" width="100%">
+</div>
 
 <br>
 
